@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Top Offers",
+    "id": 13
+  },
+  {
+    "name": "Clothing",
+    "id": 14,
+    "children": [
+      {
+        "name": "Mens",
+        "id": 21
+      },
+      {
+        "name": "Womens",
+        "id": 22
+      },
+      {
+        "name": "Kids",
+        "id": 26,
+        "children": [
+          { "name": "Tshirts", "id": 41 },
+          { "name": "Trousers", "id": 42 },
+          { "name": "Dresses", "id": 43 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home",
+    "id": 15,
+    "children": [
+      {
+        "name": "Furniture",
+        "id": 31
+      },
+      {
+        "id": 32,
+        "name": "Home decor",
+        "children": [
+          {
+            "id": 53,
+            "name": "curtain"
+          },
+          {
+            "id": 54,
+            "name": "Kitchen equipment"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Appliances",
+    "id": 16
+  },
+  {
+    "name": "Beauty",
+    "id": 17,
+    "children": [
+      {
+        "id": 39,
+        "name": "Women",
+        "children": [
+          { "name": "Face", "id": 69 },
+          { "name": "Hair", "id": 67 },
+          { "name": "Legs", "id": 63 }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Mens"
+      }
+    ]
+  }
+]
