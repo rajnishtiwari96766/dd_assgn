@@ -1,4 +1,4 @@
-import '/Users/rajnishvinaytiwari/Desktop/Assignmet_Frontend/assgn/src/App.css'
+import './App.css'
 import navLinksData from "./data.json";
 import Header from './components/header';
 import Drop_dn from './components/drop_dn';
